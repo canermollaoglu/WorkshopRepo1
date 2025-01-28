@@ -63,6 +63,8 @@ origin: Bir kısayoldur. Git bash'in https://github.com/canermollaoglu/WorkshopR
 LOCALREPO, REMOTEREPO gönderildi:
 git remote add origin https://github.com/canermollaoglu/WorkshopRepo1.git
 
+Sıradaki konu VisualStudio Code üzerinden aynı işlemleri yapmak olacak.
+
 
 
 

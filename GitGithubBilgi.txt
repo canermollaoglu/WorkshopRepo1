@@ -52,6 +52,22 @@ https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 clear:
 ekranı temizler.
 
+Localde Bulunan Projenin Github Remote Repository'e 
+Gönderilmesi: (push)
+
+git remote add origin https://github.com/canermollaoglu/WorkshopRepo1.git
+
+origin: Bir kısayoldur. Git bash'in https://github.com/canermollaoglu/WorkshopRepo.git
+ repository adresini hatırlamasını sağlar. Özel bir keyword değildir.
+
+Localrepo, Remote'a gönderildi:
+git remote add origin https://github.com/canermollaoglu/WorkshopRepo1.git
+
+
+
+
+
+
 
 
 

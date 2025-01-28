@@ -65,6 +65,13 @@ git remote add origin https://github.com/canermollaoglu/WorkshopRepo1.git
 
 Sıradaki konu VisualStudio Code üzerinden aynı işlemleri yapmak olacak.
 Visual Studio 2022 üzerinden deneme yapıyoruz.
+Kodlarımı yazıyorum.
+Kodlarımı yazıyorum.
+Kodlarımı yazıyorum.
+Kodlarımı yazıyorum.
+Kodlarımı yazıyorum.
+Kodlarımı yazıyorum.
+Kodlarımı yazıyorum.
 
 
 

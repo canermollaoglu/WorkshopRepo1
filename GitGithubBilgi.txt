@@ -60,8 +60,9 @@ git remote add origin https://github.com/canermollaoglu/WorkshopRepo1.git
 origin: Bir kısayoldur. Git bash'in https://github.com/canermollaoglu/WorkshopRepo.git
  repository adresini hatırlamasını sağlar. Özel bir keyword değildir.
 
-Localrepo, Remote'a gönderildi:
+LOCALREPO, REMOTEREPO gönderildi:
 git remote add origin https://github.com/canermollaoglu/WorkshopRepo1.git
+
 
 
 
